@@ -3,21 +3,12 @@ simple python script for slicing images into sheets of A1, A2, ..., A6 format, e
 
 ## For using script follow next stems:
 
-#### 1
-At first, you need install Python 3.5 or higher and get PIL module for it
+* At first, you need install Python 3.5 or higher and get PIL module for it
 use pip install for it - `pip install pillow --user`
-
-#### 2
-Place script into temporary folder (all new images will be automatically saved here)
-
-#### 3
-Pick image to cutting it
-
-#### 4
-Run script and follow steps from it
-
-#### 5
-Print sheets and make poster from it
+* Place script into temporary folder (all new images will be automatically saved here)
+* Pick image to cutting it
+* Run script and follow steps from it
+* Print sheets and make poster from it
 
 ## Exaples
 
