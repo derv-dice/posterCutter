@@ -17,7 +17,7 @@ use pip install for it - `pip install pillow --user`
 * Run scripscript.exet and follow steps from it
 * Print sheets and make poster from it
 
-## Exaples
+## Exaples with script.py
 
 #### folder before starting script
 ![folder before starting script](https://github.com/DERVdice/poster-cutter/blob/master/Examples/before%20start.jpg)
@@ -27,3 +27,11 @@ use pip install for it - `pip install pillow --user`
 
 #### 10 A4 sheets on horisontal
 ![10 A4 sheets on horisontal](https://github.com/DERVdice/poster-cutter/blob/master/Examples/10%20sheets.jpg)
+
+## Exaples with script.exe
+
+#### folder before starting script
+![folder before starting script](https://github.com/DERVdice/poster-cutter/blob/master/Examples/using.jpg)
+
+#### 2 A4 sheets on horisontal
+![2 A4 sheets on horisontal](https://github.com/DERVdice/poster-cutter/blob/master/Examples/after%20using.jpg)
